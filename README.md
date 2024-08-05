@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - 🔭 I am currently a third-year undergraduate student majoring in Computer Science and Technology at Harbin Institute of Technology.
 - 🌱 I’m currently learning manipulation nad legged robots, and I was previously working on multimodal large models.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wadaxiwan)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact Me
 
 - 📫 How to reach me: Email: 7175380@gmail.com
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wadaxiwan&repo=github-readme-stats)]([https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wadaxiwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HITsz-TMG&repo=UMOE-Scaling-Unified-Multimodal-LLMs)](https://github.com/anuraghazra/github-readme-stats)
 
