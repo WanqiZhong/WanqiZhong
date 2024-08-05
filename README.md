@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: Email: 7175380@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wadaxiwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Some previous contributions
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HITsz-TMG&repo=UMOE-Scaling-Unified-Multimodal-LLMs)](https://github.com/anuraghazra/github-readme-stats)
 
