@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: Email: 7175380@gmail.com
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wadaxiwan&repo=github-readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wadaxiwan&repo=github-readme-stats)]([https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs])
 
