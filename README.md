@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### About Wadaxiwan
 
 - 🔭 I am currently a third-year undergraduate student majoring in Computer Science and Technology at Harbin Institute of Technology.
-- 🌱 I’m currently learning manipulation nad legged robots, and I was previously working on multimodal large models.
+- 🌱 I’m currently learning manipulation and legged robots, and I was previously working on multimodal large models.
 
 
 ### Contact Me
